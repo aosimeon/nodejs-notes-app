@@ -1,0 +1,17 @@
+{
+  "name": "wejapa--notes-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Note Taking App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amoo Olusola Simeon",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.0.0",
+    "inquirer": "^7.3.3"
+  }
+}
